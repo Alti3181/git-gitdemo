@@ -1,3 +1,4 @@
 this is my first data in the git hehe data
 take the input here
 there you output its
+submit data to the data code
